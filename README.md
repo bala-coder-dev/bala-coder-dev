@@ -2,12 +2,12 @@
 
 <img src="./assets/profile-live.gif" width="850"/>
 
-<br/><br/>
+<br/>
 
-![status](https://img.shields.io/badge/●_CURRENTLY_BUILDING-161B22?style=flat-square&color=161B22&labelColor=161B22)
-![views](https://komarev.com/ghpvc/?username=bala-coder-dev&style=flat-square&color=39D353&label=PROFILE+VIEWS)
+![status](https://img.shields.io/badge/●_CURRENTLY_BUILDING-161B22?style=for-the-badge&color=161B22&labelColor=161B22)
+![views](https://komarev.com/ghpvc/?username=bala-coder-dev&style=for-the-badge&color=161B22&labelColor=161B22&label=PROFILE+VIEWS)
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/balamurugan-k-8455b6371/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=39D353" /></a>
 <a href="https://github.com/bala-coder-dev"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=39D353" /></a>
@@ -15,11 +15,7 @@
 
 </div>
 
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:39D353,100:1F6FEB&height=3&width=1200" width="100%"/>
-
-<br/>
 
 ## `// ABOUT ME`
 
@@ -53,6 +49,8 @@ Exploring `Cloud Deploys` `GenAI`
 
 ## `// CURRENTLY`
 
+<div align="center">
+
 <table width="100%">
 <tr>
 <td align="center" width="25%">
@@ -81,6 +79,8 @@ Exploring `Cloud Deploys` `GenAI`
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
@@ -115,6 +115,9 @@ LLM-powered pull request reviewer — parses diffs with tree-sitter and posts st
 
 </td>
 </tr>
+</table>
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
