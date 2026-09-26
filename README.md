@@ -23,7 +23,7 @@
 <tr>
 <td valign="top" width="62%">
 
-Hey, I'm Balamurugan — a 3rd-year B.Tech Information Technology student at SRMIST, building toward a career in software engineering.
+Hey, I'm Balamurugan — a  IT student at SRMIST, building toward a career in software engineering.
 
 I enjoy turning ideas into working systems: backend APIs, data-driven applications, and AI-powered products. Two of those ideas are now live — a multi-agent platform that has AI "executives" debate a business decision, and a bot that reviews pull requests.
 
