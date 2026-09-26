@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-terminal.png" width="850"/>
+<img src="./assets/profile-live.gif" width="850"/>
 
 <br/><br/>
 
