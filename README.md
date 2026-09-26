@@ -27,6 +27,20 @@
 
 <br/>
 
+## `// WHOAMI`
+
+<div align="center">
+
+<img src="./assets/profile-terminal.png" width="850"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39D353,100:1F6FEB&height=3&width=1200" width="100%"/>
+
+<br/>
+
 ## `// ABOUT ME`
 
 <table width="100%">
@@ -211,6 +225,22 @@ Mind & Machine — AI Quiz
 &nbsp;&nbsp;`Google Gemini` `Groq` `Llama 3` `Pinecone (Vector DB)` `Prompt Engineering` `Multi-Agent Systems`
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39D353,100:1F6FEB&height=3&width=1200" width="100%"/>
+
+<br/>
+
+## `// CONTRIBUTIONS`
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/39D353/bala-coder-dev" width="100%"/>
+
+</div>
+
+<sub>Live contribution grid — pulled straight from GitHub, updates as you commit.</sub>
 
 <br/>
 
