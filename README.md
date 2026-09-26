@@ -4,12 +4,6 @@
 
 <br/><br/>
 
-<sub><b>BUILDING</b> &nbsp;•&nbsp; <b>LEARNING</b> &nbsp;•&nbsp; <b>SHIPPING</b></sub>
-<br/>
-<sub>Backend Systems · APIs · Cloud · AI</sub>
-
-<br/><br/>
-
 ![status](https://img.shields.io/badge/●_CURRENTLY_BUILDING-161B22?style=flat-square&color=161B22&labelColor=161B22)
 ![views](https://komarev.com/ghpvc/?username=bala-coder-dev&style=flat-square&color=39D353&label=PROFILE+VIEWS)
 
@@ -90,34 +84,6 @@ Exploring `Cloud Deploys` `GenAI`
 
 <br/>
 
-## `// ACTIVITY`
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=bala-coder-dev&theme=github-dark&hide_border=true&background=0D1117&stroke=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=8B949E&currStreakNum=EDEDED&sideNums=EDEDED&dates=8B949E" width="100%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bala-coder-dev&theme=github-compact&bg_color=0D1117&color=39D353&line=39D353&point=EDEDED&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-<sub>Live GitHub data — updates automatically as the account grows.</sub>
-
-<br/>
-
-## `// TROPHY CASE`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bala-coder-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%"/>
-
-</div>
-
-<sub>Fills in automatically as repos, stars, and activity grow — this is what it shows today.</sub>
-
-<br/>
-
 ## `// FEATURED BUILDS`
 
 <table width="100%">
@@ -149,11 +115,41 @@ LLM-powered pull request reviewer — parses diffs with tree-sitter and posts st
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**03** <sub>· forensic media analysis</sub>
+### TruthLens
+Explainable multimodal forensic inspection platform for detecting deepfakes, face swaps, synthetic media, and neural voice clones.
+
+<sub>`React` `TypeScript` `Canvas` `Web Audio API`</sub>
+
+<br/>
+
+[**VIEW PROJECT →**](#)
+
+</td>
+<td width="50%" valign="top">
+
+**04** <sub>· civic intelligence</sub>
+### CivicPulse
+AI-powered civic intelligence platform turning community reports into location-aware, prioritized incidents and coordinated response.
+
+<sub>`React` `Vite` `TypeScript` `Leaflet` `AI`</sub>
+
+<br/>
+
+[**VIEW PROJECT →**](#)
+
+</td>
+</tr>
 </table>
 
 <br/>
 
 ## `// ACHIEVEMENTS`
+
+<div align="center">
 
 <table width="100%">
 <tr>
@@ -192,6 +188,8 @@ Mind & Machine — AI Quiz
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
@@ -234,8 +232,6 @@ Mind & Machine — AI Quiz
 <a href="https://github.com/bala-coder-dev"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=39D353" /></a>
 
 </div>
-
-<br/>
 
 ---
 
