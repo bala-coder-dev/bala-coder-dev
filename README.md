@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:238636,100:39D353&height=200&section=header&text=BALAMURUGAN%20K&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20in%20the%20making&descAlignY=58&descSize=16&descColor=E6EDF3&animation=fadeIn" width="100%"/>
+<img src="./assets/profile-terminal.png" width="850"/>
 
-<br/>
+<br/><br/>
 
 <sub><b>BUILDING</b> &nbsp;•&nbsp; <b>LEARNING</b> &nbsp;•&nbsp; <b>SHIPPING</b></sub>
 <br/>
@@ -18,20 +18,6 @@
 <a href="https://www.linkedin.com/in/balamurugan-k-8455b6371/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=39D353" /></a>
 <a href="https://github.com/bala-coder-dev"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=39D353" /></a>
 <a href="#connect"><img src="https://img.shields.io/badge/Projects-161B22?style=for-the-badge&logo=bookstack&logoColor=39D353" /></a>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39D353,100:1F6FEB&height=3&width=1200" width="100%"/>
-
-<br/>
-
-## `// WHOAMI`
-
-<div align="center">
-
-<img src="./assets/profile-terminal.png" width="850"/>
 
 </div>
 
@@ -225,22 +211,6 @@ Mind & Machine — AI Quiz
 &nbsp;&nbsp;`Google Gemini` `Groq` `Llama 3` `Pinecone (Vector DB)` `Prompt Engineering` `Multi-Agent Systems`
 
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39D353,100:1F6FEB&height=3&width=1200" width="100%"/>
-
-<br/>
-
-## `// CONTRIBUTIONS`
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/39D353/bala-coder-dev" width="100%"/>
-
-</div>
-
-<sub>Live contribution grid — pulled straight from GitHub, updates as you commit.</sub>
 
 <br/>
 
